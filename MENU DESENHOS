@@ -1,0 +1,46 @@
+ 
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+ 
+<channels>
+ 
+ 
+<channel>
+<name>[COLOR yellow][B]South Park[/B][/COLOR]</name>
+<thumbnail>https://bancodeseries.com.br/images/posters/4193.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/Q4dzjLK6</externallink>
+<fanart>https://geekquest.org/wp-content/uploads/2019/09/sp.jpg</fanart>
+<info></info>
+</channel>
+ 
+<channel>
+<name>[COLOR yellow][B]Mr. Pickles[/B][/COLOR]</name>
+<thumbnail>https://1.bp.blogspot.com/-tTBbt1Ni_ys/XHQZg18ppdI/AAAAAAAAARU/x9ek8ss3qOcO-nOpts-9oVWt3GEZix9QACPcBGAYYCw/s1600/cover.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/PMBfK29v</externallink>
+<fanart>https://bocadoinferno.com.br/wp-content/uploads/2016/10/Mr-Pickles-2014-2.jpg</fanart>
+<info></info>
+</channel>
+ 
+<channel>
+<name>[COLOR yellow][B]The Simpsons[/B][/COLOR]</name>
+<thumbnail>https://media.fstatic.com/qZbGEl_yXE_mCz-XRVji_1fb82I=/290x478/smart/media/movies/covers/2019/02/ts.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/rodrigoludvigdasilva111/KODIBRAZUCA/master/OS%20SIMPSONS%20MENU</externallink>
+<fanart>https://ogimg.infoglobo.com.br/in/23568569-a75-cbf/FT1086A/652/x76575078.jpg.pagespeed.ic.nz1NxEWdVF.jpg</fanart>
+<info></info>
+</channel>
+ 
+<channel>
+<name>[COLOR yellow][B]Scooby-Doo[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/bHQjmRgZcXz52AreInhumqHSYY9.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/MnaY5jt0</externallink>
+<fanart>https://ogimg.infoglobo.com.br/in/23568569-a75-cbf/FT1086A/652/x76575078.jpg.pagespeed.ic.nz1NxEWdVF.jpg</fanart>
+<info></info>
+</channel>
+ 
+<channel>
+<name>[COLOR yellow][B]Bob Esponja[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/vNXHdgxSmrn46HyS0XJIw39KT8q.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/ZhwmWb0f</externallink>
+<fanart>https://ogimg.infoglobo.com.br/in/23568569-a75-cbf/FT1086A/652/x76575078.jpg.pagespeed.ic.nz1NxEWdVF.jpg</fanart>
+<info></info>
+</channel>
