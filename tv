@@ -1,0 +1,11 @@
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>LINK FILME$nome= Dublado</link>
+<link>LINK FILME$nome= Legendado</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
