@@ -1,8 +1,11 @@
+<channels>
 
-<item>
-<title>FILMES DE TERROR</title>
-<link>https://raw.githubusercontent.com/rodrigoludvigdasilva111/KODIBRAZUCA/master/CATEGORIAS%20FILMES%20TORCINE</link>
+<channel>
+<name>[B][COLOR white]FILMES DE TERROR[/COLOR][/B]</name>
 <thumbnail>https://w7.pngwing.com/pngs/432/806/png-transparent-popcorn-on-red-and-white-striped-bucket-popcorn-maker-microwave-popcorn-popcorn-food-cooking-seasoning-thumbnail.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/rodrigoludvigdasilva111/KODIBRAZUCA/master/categoria%20terror%20torcine</externallink>
 <fanart>https://wodz.com.br/wp-content/uploads/2023/11/wp-header-logo-1764.jpg</fanart>
-<info>TERROR</info>
-</item>
+<info>DESCRIÇÃO DA CATEGORIA</info>
+</channel>
+
+</channels>
